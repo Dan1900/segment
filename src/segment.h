@@ -3,6 +3,7 @@
 
 #include <opencv2/opencv.hpp>
 #include <vector>
+#include <limits> //add by qd;20161121
 
 class Segment
 {
